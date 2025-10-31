@@ -1,0 +1,14 @@
+{
+  "title": "QVU rotation\u2013curve fitting data release",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Simpson, Randall G.",
+      "affiliation": "Aurora, CO"
+    }
+  ],
+  "description": "Code and sample data to reproduce QVCSR rotation-curve fits.",
+  "license": "MIT",
+  "version": "v1.0.0",
+  "access_right": "open"
+}

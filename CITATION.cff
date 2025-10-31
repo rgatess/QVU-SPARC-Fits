@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it."
+title: "QVU rotation–curve fitting data release"
+version: "1.0.0"
+authors:
+  - family-names: Simpson
+    given-names: Randall G.
+date-released: "2025-10-29"
+license: MIT
+repository-code: "https://github.com/<your-username>/QVU_RC_release_v1"
