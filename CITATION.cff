@@ -1,10 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite it."
-title: "QVU rotation–curve fitting data release"
+title: "QVU-SPARC-Fits: Rotation-curve fitting under the QVCSR/Qvion framework"
 version: "1.0.0"
 authors:
   - family-names: Simpson
     given-names: Randall G.
 date-released: "2025-10-29"
 license: MIT
+doi:"10.5281.17496882"
 repository-code: "https://github.com/rgatess/QVU-SPARC-Fits"
