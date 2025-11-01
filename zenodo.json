@@ -1,14 +1,44 @@
 {
-  "title": "QVU rotation\u2013curve fitting data release",
+  "title": "QVU_SPARC-Fits: Rotation-curve fitting under the QVCSR/Qvion framework",
   "upload_type": "software",
+  "description": "Open-source Python package and scripts for fitting galaxy rotation curves in the SPARC database using the Quantum-Vacuum Composite Stiffness Response (QVCSR) framework. Includes full pipeline for batch fitting, plotting, and residual analysis used in the QVU papers.",
   "creators": [
     {
       "name": "Simpson, Randall G.",
-      "affiliation": "Aurora, CO"
+      "affiliation": "Independent Researcher",
+      "orcid": "0000-0000-0000-0000"
     }
   ],
-  "description": "Code and sample data to reproduce QVCSR rotation-curve fits.",
+  "access_right": "open",
   "license": "MIT",
-  "version": "v1.0.0",
-  "access_right": "open"
+  "version": "1.0.0",
+  "publication_date": "2025-11-01",
+  "language": "eng",
+  "keywords": [
+    "SPARC",
+    "rotation curves",
+    "Qvions",
+    "QVCSR",
+    "dark matter",
+    "galaxy dynamics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/rgatess/QVU-SPARC-Fits",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "10.5281/zenodo.17496882",
+      "relation": "isAlternateIdentifier"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Simpson, Randall G.",
+      "type": "Researcher",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "notes": "First archival release supporting the QVU rotation-curve analysis. All figures and fits in the accompanying paper are reproducible using this repository."
 }
