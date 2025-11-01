@@ -1,4 +1,5 @@
 # QVU Rotation-Curve Fitting (v1.0)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17496882.svg)](https://doi.org/10.5281/zenodo.17496882)
 
 This repository contains a minimal, reproducible pipeline to evaluate the **Quantum Vacuum Composite Stiffness Response (QVCSR)** against galactic rotation curves.
 
