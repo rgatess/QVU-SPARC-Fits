@@ -38,7 +38,7 @@ Outputs:
 - Create a GitHub repo and push this bundle.
 - Connect the repo to Zenodo and publish a `v1.0` release.
 - Zenodo will mint a DOI; include it in the paper as:
-  > Simpson (2025). QVU rotation–curve fitting data release (v1.0). Zenodo. DOI: 10.5281/zenodo.XXXXXXX
+  > Simpson (2025). QVU rotation–curve fitting data release (v1.0). Zenodo. DOI: 10.5281/zenodo.17496882
 
 ## Citation
 See `CITATION.cff`.
