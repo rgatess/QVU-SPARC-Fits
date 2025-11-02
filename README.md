@@ -43,3 +43,7 @@ Outputs:
 
 ## Citation
 See `CITATION.cff`.
+
+### Data
+SPARC galaxy database — Lelli, F., McGaugh, S. S., & Schombert, J. M. (2016), *AJ*, 152, 157.
+(https://astroweb.cwru.edu/SPARC)
